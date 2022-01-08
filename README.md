@@ -1,2 +1,3 @@
-# paintjs
-Painting Board mad with VanillaJS
+# Painting Board
+
+Made with Vanilla Javascript and Css
