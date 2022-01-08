@@ -1,3 +1,3 @@
 # Painting Board
 
-Made with Vanilla Javascript and Css
+Made with Vanilla Javascript Canvas API
